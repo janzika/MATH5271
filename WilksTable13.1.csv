@@ -1,6 +1,6 @@
 ﻿Station,Temp,Ppt,Group,sym
 "Athens, GA",79.2,5.18,Southeast US,o
-"Atlanta, GA ",78.6,4.73,Southeast US,o
+"Atlanta, GA",78.6,4.73,Southeast US,o
 "Augusta, GA",80.6,4.4,Southeast US,o
 "Gainesville, FL",80.8,6.99,Southeast US,o
 "Huntsville, AL",79.3,5.05,Southeast US,o
@@ -9,21 +9,21 @@
 "Montgomery, AL",81.7,4.78,Southeast US,o
 "Pensacola, FL",82.3,7.18,Southeast US,o
 "Savannah, GA",81.2,7.37,Southeast US,o
-"Concordia, KS      ",79,3.37,Central US,x
+"Concordia, KS",79,3.37,Central US,x
 "Des Moines, IA",76.3,3.22,Central US,x
 "Dodge City, KS",80,3.08,Central US,x
 "Kansas City, MO",78.5,4.35,Central US,x
 "Lincoln, NE",77.6,3.2,Central US,x
 "Springfield, MO",78.8,3.58,Central US,x
-"St. Louis, MO ",78.9,3.63,Central US,x
+"St. Louis, MO",78.9,3.63,Central US,x
 "Topeka, KS",78.6,4.04,Central US,x
-"Wichit a, KS",81.4,3.62,Central US,x
-"Albany, NY ",71.4,3,Northeast US,+
-"Binghamton, NY ",68.9,3.48,Northeast US,+
-"Boston, MA ",73.5,2.68,Northeast US,+
-"Bridgeport , C T ",74,3.46,Northeast US,+
-"Burlin gt on , VT ",69.6,3.43,Northeast US,+
-"Hartford, CT ",73.4,3.09,Northeast US,+
-"Portland, ME ",68.1,2.83,Northeast US,+
-"Providence, RI ",72.5,3.01,Northeast US,+
-"Worcester, MA ",69.9,3.58,Northeast US,+
+"Wichita, KS",81.4,3.62,Central US,x
+"Albany, NY",71.4,3,Northeast US,+
+"Binghamton, NY",68.9,3.48,Northeast US,+
+"Boston, MA",73.5,2.68,Northeast US,+
+"Bridgeport, CT",74,3.46,Northeast US,+
+"Burlington, VT",69.6,3.43,Northeast US,+
+"Hartford, CT",73.4,3.09,Northeast US,+
+"Portland, ME",68.1,2.83,Northeast US,+
+"Providence, RI",72.5,3.01,Northeast US,+
+"Worcester, MA",69.9,3.58,Northeast US,+
